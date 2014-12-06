@@ -1,5 +1,8 @@
 ## plot4.R, creates 4 plots
 
+## First run the file ExData_Plotting1.R to download and do the pre-proccessing of the data,
+## if not done yet.
+
 plot4 <- function() {
         par(mfrow=c(2,2))
         

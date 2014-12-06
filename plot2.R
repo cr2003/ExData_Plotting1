@@ -1,5 +1,9 @@
 ## plot2.R, creates the frequency with the Global Active Power
 
+## First run the file ExData_Plotting1.R to download and do the pre-proccessing of the data,
+## if not done yet.
+
+
 plot2 <- function() {
         Sys.setlocale("LC_TIME", "English") # Change my local time from Spanish to English, to have (Thu, Fri and Sat)
         

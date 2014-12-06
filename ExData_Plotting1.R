@@ -1,4 +1,6 @@
-## ExData_Plotting1, First assigment of this course.
+## ExData_Plotting1.R, First assigment of this course.
+## Running this file download the data from the web, and do the preproccessing to prepare for
+## running each specific plot.R in order to generate the png file.
 
 ## This assignment uses data from the UC Irvine Machine Learning Repository
 ## Dataset: Electric power consumption [20Mb]
